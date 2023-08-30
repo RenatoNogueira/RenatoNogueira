@@ -5,6 +5,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](http://spotify.com)
 
 ![Renato Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoNogueira&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoNogueira&hide_progress=true)
 
 ## Tecnologia que utilizo no meu dia a dia
