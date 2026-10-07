@@ -4,7 +4,6 @@
 [![Intagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagran.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](http://spotify.com)
 
-![Renato Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoNogueira&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoNogueira&hide_progress=true)
 
